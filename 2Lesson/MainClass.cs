@@ -41,7 +41,8 @@ namespace _2Lesson
             //Console.WriteLine(task2.PowRec(a,b));
             //Console.WriteLine(Math.Pow(a, b));
 
-            #endregion
+            #endregion 
+
 
             #region Задание 3
             /*
